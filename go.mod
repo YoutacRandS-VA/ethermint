@@ -22,11 +22,11 @@ require (
 	github.com/cometbft/cometbft v0.38.10
 	github.com/cosmos/cosmos-db v1.0.2
 	github.com/cosmos/cosmos-proto v1.0.0-beta.5
-	github.com/cosmos/cosmos-sdk v0.50.6
+	github.com/cosmos/cosmos-sdk v0.50.7
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/gogoproto v1.4.12
 	github.com/cosmos/ibc-go/modules/capability v1.0.0
-	github.com/cosmos/ibc-go/v8 v8.1.0
+	github.com/cosmos/ibc-go/v8 v8.4.0
 	github.com/cosmos/rosetta v0.50.3-1
 	github.com/crypto-org-chain/go-block-stm v0.0.0-20240806075927-09a64748f883
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
